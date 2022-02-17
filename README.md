@@ -1,5 +1,3 @@
-
-@@ -1,38 +1,38 @@
 <div align=center>
   
   <!-- https://github.com/kyechan99/capsule-render -->
