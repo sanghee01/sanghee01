@@ -1,13 +1,30 @@
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sanghee01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+@@ -1,38 +1,38 @@
+<div align=center>
+  
+  <!-- https://github.com/kyechan99/capsule-render -->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=200&section=header&text=SangHee%20Lee&fontSize=70&fontColor=ffffff)
+ 
+  <br/>
+  <!-- https://simpleicons.org/ 아이콘 -->
+  <!-- https://shields.io/ 라벨 -->
+  <h3>⚒️ Tech Stack</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <br/>
 
+  
+  <br />
+  <br />
+  
+  <h3>📚 Blog</h3>
+  
+   <a href="https://sanghee01.tistory.com/">
+    <img src="https://img.shields.io/badge/TiStory-gray?style=flat-square&logo=TV%20Time&logoColor=white&link=https://junghyeonsu.tistory.com/"/>
+  </a>
 
-## My Skill Set  
-<div align="center">  
-<code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>
+  <br />
+  <br />
+    
 </div>
-<br />
